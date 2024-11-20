@@ -1,7 +1,7 @@
-### Click on the View Raw And download the dashboard To interact with the Dashboard.
+### Click on the View Raw And download the dashboard To interact with the Dashboard And Click On the Dashboard.png to see the Dashboard.
 
 
-## **Title of the Project**
+
 **Car Sales Dashboard**
 
 ---
